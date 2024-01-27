@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="button">Button</string>
+    <string name="flashlight_app">FlashLight App</string>
+    <string name="toolbar">FLASHLIGHT</string>
+    <string name="er">Switch</string>
+    <string name="text"> Hello world this is my first Flashlight App</string>
+    <string name="flashlight">FlashLight</string>
+    <string name="todo">TODO</string>
+    <string name="powerImage">TODO</string>
+</resources>
